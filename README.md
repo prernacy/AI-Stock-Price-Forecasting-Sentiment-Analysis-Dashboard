@@ -105,8 +105,8 @@ pip install streamlit yfinance pandas numpy plotly scikit-learn requests
 
 1. Save the main project file as:
 
+```text
 app.py
-
 
 2. Run the Streamlit application:
 
