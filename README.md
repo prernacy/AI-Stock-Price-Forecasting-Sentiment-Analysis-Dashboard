@@ -101,6 +101,22 @@ Run:
 
 ```bash
 pip install streamlit yfinance pandas numpy plotly scikit-learn requests
+## Running the Project
+
+1. Save the main project file as:
+
+app.py
+
+
+2. Run the Streamlit application:
+
+```bash
+streamlit run app.py
+3. After running the command, the dashboard will open automatically in your browser.
+
+If it does not open automatically, open this link manually:
+
+http://localhost:8501
 ## Project Structure
 
 The project follows this structure:
