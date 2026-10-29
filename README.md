@@ -17,12 +17,12 @@ The dashboard focuses on five major technology companies:
 
 ## Key Features
 
-### 📈 Stock Price Forecasting
+### Stock Price Forecasting
 - Predicts future stock prices using a Machine Learning model.
 - Implements Random Forest Regression for forecasting.
 - Evaluates model performance using RMSE (Root Mean Square Error).
 
-### 📊 Technical Analysis
+### Technical Analysis
 The project calculates important financial indicators:
 
 - Moving Average (MA5)
@@ -31,12 +31,12 @@ The project calculates important financial indicators:
 - Volume Change
 - Relative Strength Index (RSI)
 
-### 📰 Sentiment Analysis
+### Sentiment Analysis
 - Integrates stock-related news data.
 - Provides sentiment-based market insights.
 - Helps understand the impact of news trends on stock movement.
 
-### 🤖 AI Project Assistant Chatbot
+### AI Project Assistant Chatbot
 The dashboard includes an AI assistant that explains:
 - Stock indicators
 - Project workflow
@@ -44,7 +44,7 @@ The dashboard includes an AI assistant that explains:
 - Dashboard usage
 - User benefits
 
-### 📌 Interactive Dashboard
+### Interactive Dashboard
 Built using Streamlit with:
 - Interactive charts
 - Company comparison
